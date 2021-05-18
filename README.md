@@ -1,14 +1,13 @@
 <img style="margin-top: 40px;" align="right" width="400px" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif">
 
-# Oieeee, seja bem vindo(a) <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
+# Heeeeyy guys <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
 
 #### Me chamo Giovana, tenho 18 anos e moro em Florianóplois-SC.!  
 
 - 💻 Desenvolvedora de software
 - :mortar_board: Tecnica em desenvolvimento de sistemas
-- 😁 Venha me conhecer mais um pouco.
 
-# Tecnologias: <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="35px">
+# technologies: <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="35px">
 
 ![Java](https://camo.githubusercontent.com/e17e119d8c9bb34ac9710be65d35d52a7e04cc260476760305525204df5f34b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d6a617661)
 ![Spring](https://camo.githubusercontent.com/d8f7e93bdb728c656b784b48c9229b2224067c147978e345773f21c0ac43f324/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537072696e672d3644423333463f7374796c653d666c61742d737175617265266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465)
