@@ -5,7 +5,6 @@
 #### Me chamo Giovana, tenho 18 anos e moro em Florianóplois-SC.!  
 
 - 💻 Desenvolvedora de software
-- :mortar_board: Tecnica em desenvolvimento de sistemas
 
 # technologies: <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="35px">
 
