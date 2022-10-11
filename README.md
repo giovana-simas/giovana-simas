@@ -2,7 +2,7 @@
 
 # Heeeeyy guys <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
 
-#### Me chamo Giovana, tenho 18 anos e moro em Florianóplois-SC.!  
+#### I work as a software developer. I believe in the evolution of technology and I am always up to date with technological subjects. Always seeking knowledge and networking. 
 
 - 💻 Desenvolvedora de software
 
