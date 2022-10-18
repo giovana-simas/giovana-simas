@@ -25,4 +25,6 @@
 
 🔗 Clique no botão ao lado para visualizar o meu perfil completo <a href="https://www.linkedin.com/in/giovana-simas/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
 
+<img src="https://raw.githubusercontent.com/giovana-simas/giovana-simas/blob/output/snake.svg" alt="Snake animation" />
 
+###
